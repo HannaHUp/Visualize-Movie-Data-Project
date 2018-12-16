@@ -65,5 +65,9 @@ Question 3: How have movies based on novels performed relative to movies not bas
 https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q3
 
 
+### an extra question
+https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q4
+https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q4_1
+
 
 You can see the report in report.pdf.
