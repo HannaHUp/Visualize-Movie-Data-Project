@@ -53,11 +53,17 @@ revenue_adj: Revenue adjusted for inflation, in 2010 US dollars
 
 
 Question 1: How have movie genres changed over time?
+
 https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q1
+
 Question 2: How do the attributes differ between Universal Pictures and Paramount Pictures?
+
 https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q2
+
 Question 3: How have movies based on novels performed relative to movies not based on novels?
+
 https://public.tableau.com/profile/ssz7051#!/vizhome/3-_3/Q3
+
 
 
 You can see the report in report.pdf.
